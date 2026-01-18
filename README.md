@@ -1,4 +1,4 @@
-# CommonLibSSE Plugin Template
+# has-magic-effect-extended
 
 This is a basic plugin template using CommonLibSSE.
 
@@ -8,8 +8,8 @@ This is a basic plugin template using CommonLibSSE.
 
 ## Getting Started
 ```bat
-git clone --recurse-submodules https://github.com/libxse/commonlibsse-template
-cd commonlibsse-template
+git clone --recurse-submodules https://github.com/Styyx1/has-magic-effect-extended
+cd has-magic-effect-extended
 ```
 
 ### Build
@@ -50,6 +50,3 @@ If you want to upgrade the project's dependencies, run the following commands:
 xmake repo --update
 xmake require --upgrade
 ```
-
-## Documentation
-Please refer to the [Wiki](../../wiki/Home) for more advanced topics.
